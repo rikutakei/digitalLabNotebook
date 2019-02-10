@@ -11,7 +11,4 @@ Name in square bracket, link in normal bracket.
 
 [Notes about tables](tables.md)
 
-Just
-as
-an 
-example
+Link to [Awesome Protocol 1](Methods/Awesome_protocol1.md)
