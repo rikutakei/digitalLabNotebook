@@ -1,18 +1,17 @@
 # digitalLabNotebook
 This is a repo from DLN workshop
 
-# Header 
+# Link some of the files here
 
-## Second Header
+Name in square bracket, link in normal bracket.
 
-### Third header
+[Notes about text stuff](text_stuff.md)
 
-###### Sixth header
+[Notes about lists and bullet points](lists_and_bullet.md)
 
----------------
+[Notes about tables](tables.md)
 
-Type lots of - (minus) to add a line
-
-Another way is to type lots of _ (underscores)
-
-__________
+Just
+as
+an 
+example
