@@ -12,3 +12,6 @@ Name in square bracket, link in normal bracket.
 [Notes about tables](tables.md)
 
 Link to [Awesome Protocol 1](Methods/Awesome_protocol1.md)
+
+Embed image (Please play around with it):
+![]()
